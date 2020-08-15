@@ -8,6 +8,6 @@ Ladda ned IntelliJ Community edition från denna länk: https://www.jetbrains.co
 ## Slides
 Föreläsning 1: https://github.com/mrkickling/javakurs/blob/master/lektion1/F%C3%B6rel%C3%A4sning%201.pdf
 
-Föreläsning 2:
+Föreläsning 2: https://github.com/mrkickling/javakurs/blob/master/lektion2/F%C3%B6rel%C3%A4sning%202.pdf
 
 Föreläsning 3:
