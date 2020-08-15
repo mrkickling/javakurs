@@ -15,3 +15,4 @@ PDF: https://github.com/mrkickling/javakurs/blob/master/lektion2/F%C3%B6rel%C3%A
 Google Drive: https://docs.google.com/presentation/d/120oDQrEpaXzCbA594cu_kMwtbCOgHXxwdwnJQP9KnvU/edit?usp=sharing
 
 ### Föreläsning 3:
+Google Drive: https://docs.google.com/presentation/d/1AjaXq4AdLsnjylabDneFPWwDwx9X8WMVfC_cqAd3xnM/edit?usp=sharing
